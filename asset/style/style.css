@@ -1,0 +1,20 @@
+:root {
+    --dark: rgb(54, 54, 54);
+}
+
+button {
+    margin: 16px 0 0 0 ;
+}
+
+#back {
+    margin: 6px 0 0 0;
+}
+
+main {
+    background-color: var(--dark);
+}
+
+h1 {
+    color: white;
+    padding: 0 16px;
+}
